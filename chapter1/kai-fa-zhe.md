@@ -11,6 +11,8 @@
 
 ### docker 编排
 
+编排目前建议使用docker-compos，
+
 * 提供 docker-compose.yml文件。
 * 提供运行该 docker-compose.ym 文件的脚本\*.sh。
 
