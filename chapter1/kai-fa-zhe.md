@@ -27,5 +27,5 @@
 
 合入develop分支（负责人合入，手动解决冲突），合入之后，触发测试，和上面流程一样。
 
-develop 分支定期或者阶段性合入release 。
+develop 分支定期或者阶段性合入release 分支。
 
