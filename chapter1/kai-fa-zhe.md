@@ -4,10 +4,13 @@
 * docker-compose版本号
 * node 版本号
 * Python 版本号
-* 
-建议在 Docker 中运行，做到测试和生产一致。
+
+
+
+* 建议在 Docker 中运行，做到测试和生产一致。
 
 * Docker
+
 * 主机
 
 分为在 docker 中运行和主机中运行。
