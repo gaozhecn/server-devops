@@ -18,7 +18,7 @@
 
 ### docker 编排
 
-编排目前建议使用docker-compos，如果是多个 Docker需要和外网进行通信，提供 NGINX 的 Docker 配置，编写进docker-compose.yml 文件中。
+目前建议使用docker-compos，如果是多个 Docker需要和外网进行通信，提供 NGINX 的 Docker 配置，编写进docker-compose.yml 文件中。
 
 * 提供 docker-compose.yml文件。
 * 提供运行该 docker-compose.ym 文件的脚本\*.sh。
