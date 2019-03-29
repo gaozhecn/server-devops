@@ -2,6 +2,7 @@
 
 * Docker 版本号
 * docker-compose版本号
+* node 版本号
 
 建议在 Docker 中运行，做到测试和生产一致。
 
