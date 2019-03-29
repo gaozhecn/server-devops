@@ -7,7 +7,7 @@
 ### 单个 docker
 
 * 需要提供 Dockerfile文件，用来构建镜像。
-* 提供运行该 Dockerfile 文件的脚本\*.sh，因为可能还需要其他参数。
+* 提供运行该 Dockerfile 文件的脚本\*.sh。
 
 ### docker 编排
 
