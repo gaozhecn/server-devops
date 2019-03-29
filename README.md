@@ -1,4 +1,6 @@
-# 软件版本流程以及运维管理
+# 软件组版本流程以及运维管理
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+流程，gitlab自动构建测试，镜像管理，服务器部署
+
+
 
