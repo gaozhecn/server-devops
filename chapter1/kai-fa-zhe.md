@@ -11,7 +11,7 @@
 
 ### docker 编排
 
-* 提供 docker-compose.yml文件
+* 提供 docker-compose.yml文件。
 
 提交代码，gitlab触发gitlab-runner运行，自动进行编译（如果需要编译），生成镜像，备份到每日构建镜像中，部署到测试服务器中，进行测试。测试成功，都成功的话，合入develop分支（负责人合入），合入之后，触发
 
