@@ -10,9 +10,7 @@
 
 ## 上传镜像
 
-step1、
-
-根据Dockerfile或者 docker-compose.yml文件生成image。
+step1、根据Dockerfile或者 docker-compose.yml文件生成image。
 
 step1、登陆到镜像仓库
 
