@@ -12,6 +12,8 @@
 
 step1、根据Dockerfile或者 docker-compose.yml文件生成image。
 
+step2、
+
 step1、登陆到镜像仓库
 
 ```
