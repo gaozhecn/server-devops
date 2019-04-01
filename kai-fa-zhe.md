@@ -22,10 +22,11 @@ step3、登陆到镜像仓库
 
 ```
 $ docker login docker-reg.ifengyu.com:4430
+# 输入 用户名和密码
 ```
 
 ```
-# 输入 用户名和密码
+
 ```
 
 step2、
