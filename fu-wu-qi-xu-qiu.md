@@ -11,5 +11,7 @@
 
 # gitlab-runner
 
+* 基本配置即可
+
 
 
