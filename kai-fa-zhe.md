@@ -31,6 +31,8 @@ $ docker login docker-reg.ifengyu.com:4430
 # 输入 用户名和密码
 ```
 
+step4、push 该镜像
+
 ```
 
 ```
