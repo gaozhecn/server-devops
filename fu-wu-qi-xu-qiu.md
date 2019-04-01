@@ -9,7 +9,7 @@
 * 内存大。
 * I/O高。
 
-# gitlab-runner-share（可以在本地）
+# gitlab-runner-share（可以在本地，目前暂定 mac mini）
 
 * 基本配置即可
 
