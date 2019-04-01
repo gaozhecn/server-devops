@@ -39,5 +39,7 @@ $ docker push docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
 
 ## 拉取镜像
 
+step1、登陆到镜像仓库
 
+\`\`\`
 
