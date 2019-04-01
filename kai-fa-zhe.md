@@ -16,11 +16,13 @@ step2、给响应的镜像打标签。
 
 ```
 $ docker tag cms_web docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
-# 或者
-docker tag ${镜像id} docker-reg.ifengyu.com:4430/${harbor项目名称}/test.nginx:v1.10.1
 ```
 
+
+
+```
 step1、登陆到镜像仓库
+```
 
 ```
 $ docker login docker-reg.ifengyu.com:4430
