@@ -18,7 +18,7 @@ step2、给响应的镜像打标签。
 $ docker tag cms_web docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
 ```
 
-
+step3、
 
 ```
 step1、登陆到镜像仓库
