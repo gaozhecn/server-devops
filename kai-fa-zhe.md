@@ -44,7 +44,7 @@ step1、登陆到镜像仓库
 step2、拉取镜像
 
 ```
-docker pull docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
+$ docker pull docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
 ```
 
 
