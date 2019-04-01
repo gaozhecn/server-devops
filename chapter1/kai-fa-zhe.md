@@ -17,7 +17,7 @@
 
 * 需要提供 Dockerfile文件，用来构建镜像。
 * 提供运行该 Dockerfile 文件的脚本\*.sh。
-* 运行Docker容器的配置文件。
+* 其他配置文件。
 
 ### docker 编排
 
