@@ -10,3 +10,9 @@
 
 step1.登陆到镜像仓库
 
+```
+$ docker login docker-reg.ifengyu.com:4430
+```
+
+
+
