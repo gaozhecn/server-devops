@@ -12,7 +12,7 @@
 
 step1、根据Dockerfile或者 docker-compose.yml文件生成image。
 
-step2、
+step2、给响应的镜像打标签。
 
 step1、登陆到镜像仓库
 
