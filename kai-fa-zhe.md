@@ -13,7 +13,7 @@
 step1、根据Dockerfile或者 docker-compose.yml文件生成image。
 
 ```
-$ docker build
+$ docker build .
 # 或者
 # docker-compose build .
 ```
@@ -30,8 +30,6 @@ step3、登陆到镜像仓库
 $ docker login docker-reg.ifengyu.com:4430
 # 输入 用户名和密码
 ```
-
-
 
 ```
 
