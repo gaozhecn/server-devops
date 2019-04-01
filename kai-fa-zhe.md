@@ -34,8 +34,9 @@ $ docker login docker-reg.ifengyu.com:4430
 step4、push 该镜像
 
 ```
+$ docker push docker-reg.ifengyu.com:4430/cms/test.cms:v1.0step2、
 
 ```
 
-step2、
+
 
