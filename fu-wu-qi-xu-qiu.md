@@ -9,7 +9,7 @@
 * 内存大。
 * I/O高。
 
-# gitlab-runner（可以在本地）
+# gitlab-runner-share（可以在本地）
 
 * 基本配置即可
 
