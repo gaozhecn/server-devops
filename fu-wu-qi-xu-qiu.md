@@ -32,6 +32,8 @@
 
 * I/O高。
 
+* 价格  大概   2400元/年
+
 # gitlab-runner-share（可以在本地，目前暂定 mac mini）
 
 * 基本配置即可
