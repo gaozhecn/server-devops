@@ -11,9 +11,9 @@ Docker Compose运行在本地，而DaoCloud运行在云端。有少量的参数�
 
 
 
+
+
 * 提交代码，构建完镜像，怎样自动的根据代码中的 docker-compose.yml部署.
-
-
 
 
 
