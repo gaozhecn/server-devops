@@ -5,11 +5,9 @@ Docker Compose运行在本地，而DaoCloud运行在云端。有少量的参数�
 因此DaoCloud暂时不支持和构建相关的参数。也不支持和本地配置文件有关的参数。包括
 
 * build
-* env\_file 
+* env\_file 
 * dockerfile
 * extends
-
-
 
 
 
