@@ -22,7 +22,6 @@ redis:
   image: daocloud.io/redis:latest
   ports:
   - 6379:6379
-
 ```
 
 
