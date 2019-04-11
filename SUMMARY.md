@@ -8,4 +8,6 @@
 * [服务器需求](fu-wu-qi-xu-qiu.md)
 * [daocloud ](daocloud.md)
 * [dfds ](dfds.md)
+* [git仓库结构](gitcang-ku-jie-gou.md)
+* [构建镜像](gou-jian-jing-xiang.md)
 
