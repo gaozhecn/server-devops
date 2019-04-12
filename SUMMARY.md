@@ -12,8 +12,8 @@
   * [daocloud ](daocloud.md)
   * [服务器需求](fu-wu-qi-xu-qiu.md)
 * [镜像仓库](kai-fa-zhe.md)
-* [dfds ](dfds.md)
 * [git仓库结构](gitcang-ku-jie-gou.md)
-* [构建镜像](gou-jian-jing-xiang.md)
+* [dfds ](dfds.md)
+* [Docker 相关工具](gou-jian-jing-xiang.md)
 * [提交代码与提交镜像](ti-jiao-dai-ma-yu-ti-jiao-jing-xiang.md)
 
