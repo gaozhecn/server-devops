@@ -13,7 +13,7 @@ Docker Compose运行在本地，而DaoCloud运行在云端。有少量的参数�
 
 我们预期达到的效果：
 
-* 构建 CI、DI流程。
+* 构建 CI、CD流程。
 
   * 提交代码\(develop分支\)，构建镜像推送到镜像仓库；
   * 拉取代码部署（脚本）到测试服务器；
@@ -25,6 +25,7 @@ Docker Compose运行在本地，而DaoCloud运行在云端。有少量的参数�
 * 使用 daocloud，在编排镜像部署时，怎样使用我们自己的 docker-compose.yml文件？
 
 * 怎样做到自动部署到服务器（测试和生产）？
+
 * 因为我们不止一个docker，在构建镜像的时候，目前来看只能 build  Dockerfile，怎样使用我们自己的docker-compose.yml进行 build构建我们的镜像？
 
 ---
