@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [流程](chapter1.md)
   * [开发者](chapter1/kai-fa-zhe.md)
+  * [文件之间的关系](chapter1/wen-jian-zhi-jian-de-guan-xi.md)
 * [Docker知识](dockerzhi-shi.md)
   * [认识Docker](ren-shi-docker.md)
   * [docker 问答快速了解](docker-wen-da-kuai-su-le-jie.md)
