@@ -12,7 +12,7 @@
 
 ## 上传镜像
 
-step1、根据Dockerfile文件生成image。
+step1、根据Dockerfile文件生成image，并打上 TAG。
 
 ```
 $ docker build -t url/prj/xx:tag dir -f Dockfile
