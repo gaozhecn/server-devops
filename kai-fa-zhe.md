@@ -12,11 +12,10 @@
 
 ## 上传镜像
 
-step1、根据Dockerfile或者 docker-compose.yml文件生成image。
+step1、根据Dockerfile文件生成image。
 
 ```
 $ docker build -t url/prj/xx:tag dir -f Dockfile
-
 ```
 
 step2、给响应的镜像打标签。
