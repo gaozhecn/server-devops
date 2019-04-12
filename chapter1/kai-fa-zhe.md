@@ -1,5 +1,7 @@
 # 服务器的运行环境说明文件
 
+主要是 Docker 和其他软件相关的环境，后期会提供公司的公共
+
 * Docker 版本号
 * docker-compose版本号
 * node 版本号
