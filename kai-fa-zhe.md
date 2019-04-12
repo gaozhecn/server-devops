@@ -15,7 +15,6 @@
 step1、根据Dockerfile文件生成image，并打上 TAG。
 
 ```
-$ docker build -t url/prj/xx:tag dir -f Dockfile
 $ docker build -t ${DOCK_REG_URL}/${REG_PRJ}/xxx:${CMS_ADMIN_IMAGE_TAG} ${DIR} -f ${DOCKFILE}
 ```
 
