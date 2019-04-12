@@ -7,7 +7,7 @@
 * [Docker知识](dockerzhi-shi.md)
   * [认识Docker](ren-shi-docker.md)
   * [docker 问答快速了解](docker-wen-da-kuai-su-le-jie.md)
-* [私有镜像仓库](kai-fa-zhe.md)
+* [镜像仓库](kai-fa-zhe.md)
 * [服务器需求](fu-wu-qi-xu-qiu.md)
 * [方案选择](fang-an-xuan-ze.md)
   * [自己搭建](fang-an-xuan-ze/ai-di-sheng.md)
