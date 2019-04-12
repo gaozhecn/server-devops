@@ -9,9 +9,9 @@
 
 * ...
 
-* 分为在 docker 中运行和主机中运行。
-
-# Docker
+* 
+* 
+* Docker
 
 ### 单个 docker
 
