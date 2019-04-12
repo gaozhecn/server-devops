@@ -15,5 +15,6 @@
 * [git仓库结构](gitcang-ku-jie-gou.md)
 * [dfds ](dfds.md)
 * [Docker 相关工具](gou-jian-jing-xiang.md)
+  * [docker-compose](gou-jian-jing-xiang/docker-compose.md)
 * [提交代码与提交镜像](ti-jiao-dai-ma-yu-ti-jiao-jing-xiang.md)
 
