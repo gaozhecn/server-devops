@@ -15,5 +15,4 @@
 * [git仓库结构](gitcang-ku-jie-gou.md)
 * [构建镜像](gou-jian-jing-xiang.md)
 * [提交代码与提交镜像](ti-jiao-dai-ma-yu-ti-jiao-jing-xiang.md)
-* [认识Docker](ren-shi-docker.md)
 
