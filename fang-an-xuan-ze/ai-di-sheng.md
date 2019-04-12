@@ -18,6 +18,8 @@ Harbor是一个用于存储和分发Docker镜像的企业级Registry服务器，
 
 ## 和官方的docker registry的区别
 
+* harbor的功能是在此之上提供用户权限管理、镜像复制等功能，提高使用的registry的效率。
+
 ## 
 
 
