@@ -1,2 +1,2 @@
-Harbor+gitlabrunner 方案
+Harbor搭建镜像仓库+gitlabrunner 方案
 
