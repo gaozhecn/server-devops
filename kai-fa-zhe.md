@@ -15,20 +15,20 @@
 step1、根据Dockerfile文件生成image，并打上 TAG。
 
 ```
-$ docker build -t ${DOCK_REG_URL}/${REG_PRJ}/xxx:${CMS_ADMIN_IMAGE_TAG} ${DIR} -f ${DOCKFILE}
+$ docker build -t ${DOCK_REG_URL}/${REG_PRJ}/xxx:${IMAGE_TAG} ${DIR} -f ${DOCKFILE}
 ```
 
 step2、登陆到镜像仓库
 
 ```
 $ docker login --username ${DOCK_REG_USER} --password ${DOCK_REG_PASSWD} ${DOCK_REG_URL}
-# 输入 用户名和密码
 ```
 
-step4、push 该镜像
+step3、push 该镜像
 
 ```
 $ docker push docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
+$ docker push ${DOCK_REG_URL}/${REG_PRJ}/xxx:${IMAGE_TAG}
 ```
 
 ## 拉取镜像
@@ -38,7 +38,7 @@ step1、登陆到镜像仓库
 step2、拉取镜像
 
 ```
-$ docker pull docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
+$ docker pull ${DOCK_REG_URL}/${REG_PRJ}/xxx:${IMAGE_TAG}
 ```
 
 
