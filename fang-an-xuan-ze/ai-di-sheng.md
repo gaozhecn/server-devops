@@ -20,6 +20,15 @@ Harbor是一个用于存储和分发Docker镜像的企业级Registry服务器，
 
 * harbor的功能是在此之上提供用户权限管理、镜像复制等功能，提高使用的registry的效率。
 
+## Harbor的架构 {#harbor的架构}
+
+harbor的整体架构还是很清晰的，下面简单介绍一下，下图展示harbor主要的功能组件和信息流向。
+
+
+
+  
+![](/assets/harbor)
+
 ## 
 
 
