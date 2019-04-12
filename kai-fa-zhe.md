@@ -15,7 +15,7 @@
 step1、根据Dockerfile或者 docker-compose.yml文件生成image。
 
 ```
-$ docker build .
+$ docker build -t url/prj/xx:tag dir -f Dockfile
 # 或者
 # docker-compose build .
 ```
