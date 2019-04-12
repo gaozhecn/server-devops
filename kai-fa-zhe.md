@@ -32,7 +32,6 @@ $ docker login --username ${DOCK_REG_USER} --password ${DOCK_REG_PASSWD} ${DOCK_
 step3、push 该镜像
 
 ```
-$ docker push docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
 $ docker push ${DOCK_REG_URL}/${REG_PRJ}/xxx:${IMAGE_TAG}
 ```
 
