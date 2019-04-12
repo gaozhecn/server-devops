@@ -18,16 +18,11 @@ step1、根据Dockerfile文件生成image，并打上 TAG。
 $ docker build -t url/prj/xx:tag dir -f Dockfile
 ```
 
-step2、给响应的镜像打标签。
-
-```
-$ docker tag cms_web docker-reg.ifengyu.com:4430/cms/test.cms:v1.0
-```
-
-step3、登陆到镜像仓库
+step2、登陆到镜像仓库
 
 ```
 $ docker login docker-reg.ifengyu.com:4430
+$ docker login --username ${DOCK_REG_USER} --password ${DOCK_REG_PASSWD} ${DOCK_REG_URL}
 # 输入 用户名和密码
 ```
 
