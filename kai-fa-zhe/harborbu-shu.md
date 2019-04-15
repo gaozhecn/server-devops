@@ -147,10 +147,8 @@ networks:
 ## 在线安装
 
 ```
-1、在线安装包
-    $ wget https://github.com/vmware/harbor/releases/download/v1.1.2/harbor-online-installer-v1.1.2.tgz
-    $ tar xvf harbor-online-installer-v1.1.2.tgz
-
+$ wget https://github.com/vmware/harbor/releases/download/v1.1.2/harbor-online-installer-v1.1.2.tgz
+$ tar xvf harbor-online-installer-v1.1.2.tgz
 ```
 
 
