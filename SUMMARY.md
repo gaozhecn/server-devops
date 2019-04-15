@@ -7,6 +7,8 @@
 * [Docker知识](dockerzhi-shi.md)
   * [认识Docker](ren-shi-docker.md)
   * [docker 问答快速了解](docker-wen-da-kuai-su-le-jie.md)
+  * [Docker 相关工具](gou-jian-jing-xiang.md)
+    * [docker-compose](gou-jian-jing-xiang/docker-compose.md)
 * [方案选择](fang-an-xuan-ze.md)
   * [自己搭建](fang-an-xuan-ze/ai-di-sheng.md)
   * [daocloud ](daocloud.md)
@@ -14,9 +16,6 @@
 * [镜像仓库](kai-fa-zhe.md)
   * [Harbor部署](kai-fa-zhe/harborbu-shu.md)
 * [git仓库结构](gitcang-ku-jie-gou.md)
-* [dfds ](dfds.md)
-* [Docker 相关工具](gou-jian-jing-xiang.md)
-  * [docker-compose](gou-jian-jing-xiang/docker-compose.md)
 * [提交代码与提交镜像](ti-jiao-dai-ma-yu-ti-jiao-jing-xiang.md)
 * [问题：](wen-ti-ff1a.md)
 
