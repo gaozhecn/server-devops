@@ -12,6 +12,7 @@
   * [daocloud ](daocloud.md)
   * [服务器需求](fu-wu-qi-xu-qiu.md)
 * [镜像仓库](kai-fa-zhe.md)
+  * [Harbor部署](kai-fa-zhe/harborbu-shu.md)
 * [git仓库结构](gitcang-ku-jie-gou.md)
 * [dfds ](dfds.md)
 * [Docker 相关工具](gou-jian-jing-xiang.md)
