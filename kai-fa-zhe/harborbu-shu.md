@@ -150,11 +150,7 @@ networks:
 1、在线安装包
     $ wget https://github.com/vmware/harbor/releases/download/v1.1.2/harbor-online-installer-v1.1.2.tgz
     $ tar xvf harbor-online-installer-v1.1.2.tgz
---------------------- 
-作者：哎_小羊_168 
-来源：CSDN 
-原文：https://blog.csdn.net/aixiaoyang168/article/details/73549898 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
 ```
 
 
